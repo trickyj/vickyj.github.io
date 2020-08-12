@@ -12,25 +12,25 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist 📊</summary>
+<summary>Demo1 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li><a href="#">Demo1</a></li>
+  <li><a href="#">Demo2</a></li>
+  <li><a href="#">Demo3</a></li>
+  <li><a href="#">Demo4</a></li>
+  <li><a href="#">Demo5</li>
+  <li><a href="#">Demo6</a></li>
+  <li><a href="#">Demo7</a></li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
-    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li><a href="#">Demo1</a></li>
+    <li><a href="#">Demo2</a></li>
+    <li><a href="#">Demo3</a></li>
+    <li><a href="#">Demo4</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
@@ -62,15 +62,6 @@
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
   technical systems to create impact.<br>
-  My name describes my qualities,
-  A: Active Learner
-  S: Sociable
-  H: Hard working
-  U: Ultra-precise
-  T: Trustworthy
-  O: Open minded to create new things
-  S: Supportive
-  H: Humble
   </pre>
 </details>
 <details>
