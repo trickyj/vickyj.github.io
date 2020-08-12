@@ -1,7 +1,7 @@
 <img src="https://github.com/trickyj/trickyj/blob/master/10586-graphics-developer-support-page-3-1500x599.png.png" />
 
-<h1>Hi Traveller, I am <a href="https://www.linkedin.com/in/jadhavvicky/">Vicky Jadhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="" width="230" />
+<h1>Hi Traveller, I am <a href="https://www.linkedin.com/in/jadhavvicky/">Vicky Jadhav</a><img src="https://github.com/trickyj/trickyj/blob/master/logos/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/vicky_profile_pic.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/jadhavvicky/"><img src="https://github.com/trickyj/trickyj/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/trickyj"><img src="https://github.com/trickyj/trickyj/blob/master/logos/github-logo.png" width="40" /></a>
