@@ -44,7 +44,7 @@
 <details>
 <summary>Community Influencer 👁️‍🗨️</summary>
 <ul>
-  <li><a href="https://github.com/trickyj/">truvisory</a></li>
+  <li><a href="https://github.com/trickyj/">Github</a></li>
   <li>Join Me on LinkedIn to see my daily posts.</li>
 </ul>
 </details>
@@ -89,4 +89,4 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![VickyJ's Github Stats](https://github-readme-stats.vercel.app/api?username=trickyj&show_icons=true&count_private=true)](https://github.com/trickyj/github-readme-stats)
+[![VickyJ's Github Stats](https://github-readme-stats.vercel.app/api?username=trickyj&show_icons=true&count_private=true)](https://github.com/trickyj/)
