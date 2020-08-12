@@ -1,4 +1,4 @@
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<img src="https://github.com/trickyj/trickyj/blob/master/10586-graphics-developer-support-page-3-1500x599.png.png" />
 
 <h1>Hi Traveller, I am <a href="https://ashutoshhathidara.com/">Ashutosh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
