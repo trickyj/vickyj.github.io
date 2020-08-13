@@ -1,9 +1,8 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <img src="https://github.com/trickyj/trickyj/blob/master/logos/3.gif" height="300px" width="900px" />
 
 <h1>Vicky Jadhav<a href="https://www.linkedin.com/in/jadhavvicky/"> - PASSIONATE - PERSISTENT - CREATIVE - </a><img src="https://github.com/trickyj/trickyj/blob/master/logos/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/vicky_profile_pic.jpg" alt="Avatar" Style="border-radius: 20%;" width="230"  />
+<img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/vicky_profile_pic.jpg" alt="Avatar" width="230" style="border-radius: 50%;" />
 
 <a href="https://www.linkedin.com/in/jadhavvicky/"><img src="https://github.com/trickyj/trickyj/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/trickyj"><img src="https://github.com/trickyj/trickyj/blob/master/logos/github-logo.png" width="40" /></a>
