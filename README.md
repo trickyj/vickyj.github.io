@@ -1,4 +1,4 @@
-<img src="https://github.com/trickyj/trickyj/blob/master/10586-graphics-developer-support-page-3-1500x599.png.png" />
+<img src="https://github.com/trickyj/trickyj/blob/master/logos/11.gif" />
 
 <h1>Vicky Jadhav<a href="https://www.linkedin.com/in/jadhavvicky/"> - PASSIONATE - PERSISTENT - CREATIVE - </a><img src="https://github.com/trickyj/trickyj/blob/master/logos/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/vicky_profile_pic.jpg" width="230" />
