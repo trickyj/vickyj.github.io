@@ -2,7 +2,7 @@
 <img src="https://github.com/trickyj/trickyj/blob/master/logos/3.gif" height="300px" width="900px" />
 
 <h1>Vicky Jadhav<a href="#"> - PASSIONATE - PERSISTENT - CREATIVE - </a></h1>
-<img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/vicky_profile_pic.jpg" alt="Avatar" width="230" style="border-radius: 50%;" />
+<img align='right' src="https://github.com/trickyj/trickyj/blob/master/logos/Me_vicky_jadhav.jpg" alt="Avatar" width="230" style="border-radius: 50%;" />
 <a href="#"><img src="https://github.com/trickyj/trickyj/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/trickyj"><img src="https://github.com/trickyj/trickyj/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="#"><img src="https://github.com/trickyj/trickyj/blob/master/logos/facebook.png" width="40" /></a>
